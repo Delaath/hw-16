@@ -12,11 +12,11 @@ body{
 }
 
 .bg-box{
-    background-image: url('../img/pole-zelen-trava-dom-derevya.webp'),
-                      url('../img/lamp.png'),
-                      url('../img/gras.png'),
-                      url('../img/yizhak.webp'),
-                      url('../img/ponchik.png');
+    background-image: url('./img/pole-zelen-trava-dom-derevya.webp'),
+                      url('./img/lamp.png'),
+                      url('./img/gras.png'),
+                      url('./img/yizhak.webp'),
+                      url('./img/ponchik.png');
     width: 2070px;
     height: 1000px;
     background-position: center, top, bottom, left, right;
